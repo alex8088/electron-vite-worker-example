@@ -31,7 +31,7 @@
     "electron": "^20.3.2",
     "electron-builder": "^23.6.0",
     "electron-notarize": "^1.2.1",
-    "electron-vite": "^1.0.13",
+    "electron-vite": "^1.0.21",
     "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
